@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 4,
+  "updatedAt": "2026-09-07T06:04:23.719886Z",
+  "appConfig": {
+    "notice": "",
+    "minAppVersion": 1
+  },
+  "modules": {
+    "main": {
+      "url": "main/index.json",
+      "version": 101,
+      "updatedAt": "2026-09-07T06:03:19.455506Z",
+      "totalCount": 30,
+      "hash": "05423b3648f544ea88b181805d5fd3f25398324964fb15500120fbc043c3b66d"
+    },
+    "daily": {
+      "url": "daily/index.json",
+      "version": 3,
+      "updatedAt": "2026-09-07T06:03:52.372415Z",
+      "count": 30,
+      "hash": "b471b56878629c9bccff7076234543f9316c52cb95eca28de8bb73d1ed256a0a",
+      "currentMonth": "202609"
+    },
+    "events": {
+      "url": "events/index.json",
+      "version": 3,
+      "updatedAt": "2026-09-07T06:04:04.149240Z",
+      "count": 3,
+      "hash": "de81c3c02162600b4cada4ea52685726bddb4e34a3bda2105a8a447e52325078"
+    },
+    "collections": {
+      "url": "collections/index.json",
+      "version": 5,
+      "updatedAt": "2026-09-07T06:04:23.719886Z",
+      "count": 5,
+      "hash": "156a961ec7f42bac2fe67ee01b13bb1ceb6bfcb36439e3723055d31a02e259ae"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "module": "daily",
+  "version": 3,
+  "currentMonth": "202609",
+  "updatedAt": "2026-09-07T06:03:52.360123Z",
+  "items": [
+    {
+      "month": "202609",
+      "totalCount": 30,
+      "zipUrl": "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/202609.zip",
+      "fileSizeBytes": 6056661,
+      "zipSha256": "a0e107423b4f82a1fb1eda5b51f69e68a35c7975cd97d9eacb33854f6cc1a027",
+      "revision": 1,
+      "updatedAt": "2026-09-07T06:03:52.360123Z"
+    },
+    {
+      "month": "202608",
+      "totalCount": 31,
+      "zipUrl": "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/202608.zip",
+      "fileSizeBytes": 5698589,
+      "zipSha256": "4360fb7d0df2efd6fd6b3adcb680297f04732e1769a5497f80ce861ec1304d7a",
+      "revision": 1,
+      "updatedAt": "2026-09-07T06:03:41.212932Z"
+    },
+    {
+      "month": "202607",
+      "totalCount": 31,
+      "zipUrl": "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/202607.zip",
+      "fileSizeBytes": 5591489,
+      "zipSha256": "db0cd386dd63b0cb88f85ad5cf721d5665398b6fe80873e10d2d066c998998d5",
+      "revision": 1,
+      "updatedAt": "2026-09-07T06:03:30.108439Z"
+    }
+  ]
+}

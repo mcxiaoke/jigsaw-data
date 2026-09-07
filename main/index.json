@@ -1,0 +1,17 @@
+{
+  "module": "main",
+  "version": 101,
+  "totalCount": 30,
+  "maxOrder": 130,
+  "updatedAt": "2026-09-07T06:03:09.991423Z",
+  "items": [
+    {
+      "batchId": "batch_001",
+      "version": 101,
+      "count": 30,
+      "startOrder": 101,
+      "endOrder": 130,
+      "url": "batches/batch_001.json"
+    }
+  ]
+}

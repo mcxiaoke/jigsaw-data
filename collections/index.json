@@ -1,0 +1,117 @@
+{
+  "module": "collections",
+  "version": 6,
+  "updatedAt": "2026-09-07T09:33:15.840902Z",
+  "items": [
+    {
+      "id": "col_wild_animals",
+      "type": "zip",
+      "title": "Wild Animals",
+      "desc": "Majestic wildlife from around the world",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/col_wild_animals.webp",
+      "zipUrl": "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_wild_animals.zip",
+      "fileSizeBytes": 2226499,
+      "zipSha256": "37c37b7a79a332ec951705762d8ef70172dbfaaaac2ce441ed2cffcd27627175",
+      "totalCount": 10,
+      "revision": 1,
+      "updatedAt": "2026-09-07T09:33:15.840902Z",
+      "category": "Animals",
+      "titleZh": "野生动物精选",
+      "descZh": "全球野性生灵精选",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_wild_animals.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_wild_animals.zip"
+      ]
+    },
+    {
+      "id": "col_garden_flowers",
+      "type": "zip",
+      "title": "Garden Flowers",
+      "desc": "Blooming gardens and fresh flowers",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/col_garden_flowers.webp",
+      "zipUrl": "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_garden_flowers.zip",
+      "fileSizeBytes": 1333374,
+      "zipSha256": "4a2fce27c0afffcc58460aa99593f722d120a68d73a6ff1b457a6fea52800366",
+      "totalCount": 10,
+      "revision": 1,
+      "updatedAt": "2026-09-07T09:33:15.840902Z",
+      "category": "Flowers",
+      "titleZh": "花园花卉",
+      "descZh": "盛放的花园与鲜花",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_garden_flowers.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_garden_flowers.zip"
+      ]
+    },
+    {
+      "id": "col_old_castles",
+      "type": "zip",
+      "title": "Castles & Landmarks",
+      "desc": "Timeless castles and famous landmarks",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/col_old_castles.webp",
+      "zipUrl": "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_old_castles.zip",
+      "fileSizeBytes": 2444620,
+      "zipSha256": "0c68ffcad16ec4c42a93d344f743b7803b0e1a5371dc632a0ec24d9068463d4d",
+      "totalCount": 10,
+      "revision": 1,
+      "updatedAt": "2026-09-07T09:33:15.840902Z",
+      "category": "Structures",
+      "titleZh": "古堡与地标",
+      "descZh": "不朽古堡与经典地标",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_old_castles.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_old_castles.zip"
+      ]
+    },
+    {
+      "id": "col_fantasy_world",
+      "type": "zip",
+      "title": "Fantasy World",
+      "desc": "Dragons, myths and magical worlds",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/col_fantasy_world.webp",
+      "zipUrl": "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_fantasy_world.zip",
+      "fileSizeBytes": 1619164,
+      "zipSha256": "ca7724fcc6ab4f757eb6013eb39853a327b5ba372110cc40db72b477a54749fb",
+      "totalCount": 10,
+      "revision": 1,
+      "updatedAt": "2026-09-07T09:33:15.840902Z",
+      "category": "Fantasy",
+      "titleZh": "奇幻世界",
+      "descZh": "巨龙神话与魔法世界",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_fantasy_world.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_fantasy_world.zip"
+      ]
+    },
+    {
+      "id": "col_sweet_food",
+      "type": "zip",
+      "title": "Sweet & Food",
+      "desc": "Delicious desserts and gourmet food",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/col_sweet_food.webp",
+      "zipUrl": "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_sweet_food.zip",
+      "fileSizeBytes": 1375183,
+      "zipSha256": "014f04bcd5714c9ed2c5a6378b6f334ce2e07ae19db5da50799cf055b00dbf1e",
+      "totalCount": 10,
+      "revision": 1,
+      "updatedAt": "2026-09-07T09:33:15.840902Z",
+      "category": "Food",
+      "titleZh": "甜点美食",
+      "descZh": "诱人甜品与精致料理",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_sweet_food.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_sweet_food.zip"
+      ]
+    }
+  ]
+}

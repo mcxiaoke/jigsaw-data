@@ -1,0 +1,10 @@
+# 关闭 LFS：本仓库所有内容由 app/Dart 直接按文件名请求，
+# 若走 LFS 文件会变成指针文本，app 取不到真实数据。
+# （ModelScope 默认模板会把 *.json/*.webp/*.zip 全部标记为 LFS filter，这里显式撤销。）
+*.json -filter -diff -merge -text
+*.webp -filter -diff -merge -text
+*.png  -filter -diff -merge -text
+*.jpg  -filter -diff -merge -text
+*.zip  -filter -diff -merge -text
+.gitattributes -filter
+*.md -filter

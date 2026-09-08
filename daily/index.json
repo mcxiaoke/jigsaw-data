@@ -12,10 +12,7 @@
       "zipSha256": "a0e107423b4f82a1fb1eda5b51f69e68a35c7975cd97d9eacb33854f6cc1a027",
       "revision": 1,
       "updatedAt": "2026-09-07T09:33:15.840902Z",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/202609.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/202609.zip"
-      ]
+      "zipKey": "daily/zips/202609.zip"
     },
     {
       "month": "202608",
@@ -25,10 +22,7 @@
       "zipSha256": "4360fb7d0df2efd6fd6b3adcb680297f04732e1769a5497f80ce861ec1304d7a",
       "revision": 1,
       "updatedAt": "2026-09-07T09:33:15.840902Z",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/202608.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/202608.zip"
-      ]
+      "zipKey": "daily/zips/202608.zip"
     },
     {
       "month": "202607",
@@ -38,10 +32,7 @@
       "zipSha256": "db0cd386dd63b0cb88f85ad5cf721d5665398b6fe80873e10d2d066c998998d5",
       "revision": 1,
       "updatedAt": "2026-09-07T09:33:15.840902Z",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/202607.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/202607.zip"
-      ]
+      "zipKey": "daily/zips/202607.zip"
     }
   ]
 }

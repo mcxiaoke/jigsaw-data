@@ -21,10 +21,7 @@
       "endTime": "2026-10-10T00:00:00Z",
       "titleZh": "海洋探险",
       "descZh": "10 张深海与海岸精选",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/evt_ocean_adventure.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/evt_ocean_adventure.zip"
-      ]
+      "zipKey": "events/packs/evt_ocean_adventure.zip"
     },
     {
       "id": "evt_halloween_fun",
@@ -44,10 +41,7 @@
       "endTime": "2026-11-02T00:00:00Z",
       "titleZh": "万圣节狂欢",
       "descZh": "惊悚又温馨的万圣节插画精选",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/evt_halloween_fun.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/evt_halloween_fun.zip"
-      ]
+      "zipKey": "events/packs/evt_halloween_fun.zip"
     },
     {
       "id": "evt_aurora_dreams",
@@ -67,10 +61,7 @@
       "endTime": "2027-01-05T00:00:00Z",
       "titleZh": "极光梦境",
       "descZh": "夜空极光与梦幻风景",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/evt_aurora_dreams.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/evt_aurora_dreams.zip"
-      ]
+      "zipKey": "events/packs/evt_aurora_dreams.zip"
     }
   ]
 }

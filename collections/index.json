@@ -20,10 +20,7 @@
       "category": "Animals",
       "titleZh": "野生动物精选",
       "descZh": "全球野性生灵精选",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_wild_animals.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_wild_animals.zip"
-      ]
+      "zipKey": "collections/packs/col_wild_animals.zip"
     },
     {
       "id": "col_garden_flowers",
@@ -42,10 +39,7 @@
       "category": "Flowers",
       "titleZh": "花园花卉",
       "descZh": "盛放的花园与鲜花",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_garden_flowers.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_garden_flowers.zip"
-      ]
+      "zipKey": "collections/packs/col_garden_flowers.zip"
     },
     {
       "id": "col_old_castles",
@@ -64,10 +58,7 @@
       "category": "Structures",
       "titleZh": "古堡与地标",
       "descZh": "不朽古堡与经典地标",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_old_castles.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_old_castles.zip"
-      ]
+      "zipKey": "collections/packs/col_old_castles.zip"
     },
     {
       "id": "col_fantasy_world",
@@ -86,10 +77,7 @@
       "category": "Fantasy",
       "titleZh": "奇幻世界",
       "descZh": "巨龙神话与魔法世界",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_fantasy_world.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_fantasy_world.zip"
-      ]
+      "zipKey": "collections/packs/col_fantasy_world.zip"
     },
     {
       "id": "col_sweet_food",
@@ -108,10 +96,7 @@
       "category": "Food",
       "titleZh": "甜点美食",
       "descZh": "诱人甜品与精致料理",
-      "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/v0.1.0/col_sweet_food.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/v0.1.0/col_sweet_food.zip"
-      ]
+      "zipKey": "collections/packs/col_sweet_food.zip"
     }
   ]
 }

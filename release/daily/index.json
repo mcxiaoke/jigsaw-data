@@ -1,0 +1,38 @@
+{
+  "module": "daily",
+  "version": 2,
+  "currentMonth": "202609",
+  "updatedAt": "2026-09-10T08:32:51.848391Z",
+  "items": [
+    {
+      "month": "202609",
+      "totalCount": 30,
+      "zipUrl": "zips/202609.zip",
+      "fileSizeBytes": 9061220,
+      "zipSha256": "59d8edf4e5e3064a077854abcda4fe30d2639fa3adeabe078efda7a327a76519",
+      "revision": 1,
+      "createdAt": "2026-09-10T08:32:51.848391Z",
+      "updatedAt": "2026-09-10T08:32:51.848391Z",
+      "zipKey": "daily/zips/202609.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/202609.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/202609.zip"
+      ]
+    },
+    {
+      "month": "202608",
+      "totalCount": 31,
+      "zipUrl": "zips/202608.zip",
+      "fileSizeBytes": 11945374,
+      "zipSha256": "f9a6718a10978506a9861201153b006dab54ce0442cb155e395af88e9a353559",
+      "revision": 1,
+      "createdAt": "2026-09-10T08:30:09.488662Z",
+      "updatedAt": "2026-09-10T08:30:09.488662Z",
+      "zipKey": "daily/zips/202608.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/202608.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/202608.zip"
+      ]
+    }
+  ]
+}

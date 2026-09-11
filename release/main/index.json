@@ -1,0 +1,29 @@
+{
+  "module": "main",
+  "version": 2,
+  "totalCount": 180,
+  "maxOrder": 180,
+  "updatedAt": "2026-09-10T10:33:53.564719Z",
+  "items": [
+    {
+      "batchId": "batch_001",
+      "version": 1,
+      "count": 100,
+      "startOrder": 1,
+      "endOrder": 100,
+      "createdAt": "2026-09-10T08:27:01.259746Z",
+      "updatedAt": "2026-09-10T08:27:01.259746Z",
+      "url": "batches/batch_001/index.json"
+    },
+    {
+      "batchId": "batch_002",
+      "version": 2,
+      "count": 80,
+      "startOrder": 101,
+      "endOrder": 180,
+      "createdAt": "2026-09-10T10:33:53.564719Z",
+      "updatedAt": "2026-09-10T10:33:53.564719Z",
+      "url": "batches/batch_002/index.json"
+    }
+  ]
+}

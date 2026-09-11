@@ -1,0 +1,11 @@
+# jigsaw-data 发布仓库
+#
+# zip 不入库：仓库仅承载 JSON 元数据与 WebP 图片（小巧轻量），
+# zip 由 Cloudflare R2 主通道 + Gitee/GitHub Release 附件承载。
+# rclone 默认不受 .gitignore 影响，会完整同步所有文件（含 zip）至 R2。
+*.zip
+
+# 发布/巡检临时目录
+.dl_check/
+.ms_upload_cache/
+_*

@@ -1,0 +1,205 @@
+{
+  "module": "collections",
+  "version": 10,
+  "updatedAt": "2026-09-10T10:19:48.068678Z",
+  "items": [
+    {
+      "id": "chromatic-butterflies-001",
+      "type": "zip",
+      "title": "Chromatic Butterflies A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/chromatic-butterflies-001.webp",
+      "zipUrl": "packs/chromatic-butterflies-001.zip",
+      "fileSizeBytes": 2452933,
+      "zipSha256": "a1cd215393c4b99e92097fd13c86c79b15d80cdbd30f1b8a70a9144474ef15f1",
+      "totalCount": 18,
+      "revision": 1,
+      "createdAt": "2026-09-10T09:46:46.822193Z",
+      "updatedAt": "2026-09-10T09:46:46.822193Z",
+      "titleZh": "彩蝶飞舞（一）",
+      "zipKey": "collections/packs/chromatic-butterflies-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/chromatic-butterflies-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/chromatic-butterflies-001.zip"
+      ]
+    },
+    {
+      "id": "world-architecture-001",
+      "type": "zip",
+      "title": "World Architecture",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/world-architecture-001.webp",
+      "zipUrl": "packs/world-architecture-001.zip",
+      "fileSizeBytes": 6120437,
+      "zipSha256": "cd4380bc9363c82129db94257740e57078b3deec097d95e03978cdcf3698fd12",
+      "totalCount": 16,
+      "revision": 1,
+      "createdAt": "2026-09-10T09:54:56.555836Z",
+      "updatedAt": "2026-09-10T09:54:56.555836Z",
+      "titleZh": "世界建筑土建（一）",
+      "zipKey": "collections/packs/world-architecture-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/world-architecture-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/world-architecture-001.zip"
+      ]
+    },
+    {
+      "id": "birds-gallery-001",
+      "type": "zip",
+      "title": "World Birds A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/birds-gallery-001.webp",
+      "zipUrl": "packs/birds-gallery-001.zip",
+      "fileSizeBytes": 3147677,
+      "zipSha256": "54be26d71ce550ebbe088849145e863705b2ce6f3ef3ada5b04408c64c837d06",
+      "totalCount": 16,
+      "revision": 1,
+      "createdAt": "2026-09-10T09:59:07.822900Z",
+      "updatedAt": "2026-09-10T09:59:07.822900Z",
+      "titleZh": "各地飞鸟图鉴（一）",
+      "zipKey": "collections/packs/birds-gallery-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/birds-gallery-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/birds-gallery-001.zip"
+      ]
+    },
+    {
+      "id": "colorful-blooms-001",
+      "type": "zip",
+      "title": "Colorful Blooms A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/colorful-blooms-001.webp",
+      "zipUrl": "packs/colorful-blooms-001.zip",
+      "fileSizeBytes": 2858568,
+      "zipSha256": "c0ae359ebbb4ac46af08a028f2641e5b1a3d678affe37e99a38c7271ba5800da",
+      "totalCount": 20,
+      "revision": 1,
+      "createdAt": "2026-09-10T10:04:29.179169Z",
+      "updatedAt": "2026-09-10T10:04:29.179169Z",
+      "titleZh": "繁花盛开（一）",
+      "zipKey": "collections/packs/colorful-blooms-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/colorful-blooms-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/colorful-blooms-001.zip"
+      ]
+    },
+    {
+      "id": "objects-crafts-001",
+      "type": "zip",
+      "title": "Objects & Crafts A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/objects-crafts-001.webp",
+      "zipUrl": "packs/objects-crafts-001.zip",
+      "fileSizeBytes": 3857506,
+      "zipSha256": "fd7ea484b0a212cfb4d16bfdc67f84d99525c3ad968c7c63198d029166f4930c",
+      "totalCount": 18,
+      "revision": 1,
+      "createdAt": "2026-09-10T10:07:03.365677Z",
+      "updatedAt": "2026-09-10T10:07:03.365677Z",
+      "titleZh": "器物之美（一）",
+      "zipKey": "collections/packs/objects-crafts-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/objects-crafts-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/objects-crafts-001.zip"
+      ]
+    },
+    {
+      "id": "fruits-vegetables-001",
+      "type": "zip",
+      "title": "Fruits & Vegetables A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/fruits-vegetables-001.webp",
+      "zipUrl": "packs/fruits-vegetables-001.zip",
+      "fileSizeBytes": 3330030,
+      "zipSha256": "49db1e3aae444f65d35c69009c9c1495ef1cb7b65ac06c8c90350a7df7510b29",
+      "totalCount": 20,
+      "revision": 1,
+      "createdAt": "2026-09-10T10:09:19.674879Z",
+      "updatedAt": "2026-09-10T10:09:19.674879Z",
+      "titleZh": "缤纷果蔬（一）",
+      "zipKey": "collections/packs/fruits-vegetables-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/fruits-vegetables-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/fruits-vegetables-001.zip"
+      ]
+    },
+    {
+      "id": "mushrooms-in-forests-001",
+      "type": "zip",
+      "title": "Mushrooms in Forests A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/mushrooms-in-forests-001.webp",
+      "zipUrl": "packs/mushrooms-in-forests-001.zip",
+      "fileSizeBytes": 3850801,
+      "zipSha256": "326760bd464eb58d5ddc8c2d5da4b6f6e55d0a2a9898c6e3785aa8b669252c45",
+      "totalCount": 20,
+      "revision": 1,
+      "createdAt": "2026-09-10T10:12:39.553628Z",
+      "updatedAt": "2026-09-10T10:12:39.553628Z",
+      "titleZh": "山野菌物（一）",
+      "zipKey": "collections/packs/mushrooms-in-forests-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/mushrooms-in-forests-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/mushrooms-in-forests-001.zip"
+      ]
+    },
+    {
+      "id": "world-delicacies-001",
+      "type": "zip",
+      "title": "World Delicacies A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/world-delicacies-001.webp",
+      "zipUrl": "packs/world-delicacies-001.zip",
+      "fileSizeBytes": 2358448,
+      "zipSha256": "d40111b44b0144a65e38d009554372677f68bef9018d6fb421f2302db455f9ed",
+      "totalCount": 16,
+      "revision": 1,
+      "createdAt": "2026-09-10T10:17:21.189217Z",
+      "updatedAt": "2026-09-10T10:17:21.189217Z",
+      "titleZh": "人间美味（一）",
+      "zipKey": "collections/packs/world-delicacies-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/world-delicacies-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/world-delicacies-001.zip"
+      ]
+    },
+    {
+      "id": "grand-landscapes-001",
+      "type": "zip",
+      "title": "Grand Landscapes A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/grand-landscapes-001.webp",
+      "zipUrl": "packs/grand-landscapes-001.zip",
+      "fileSizeBytes": 11807018,
+      "zipSha256": "125a8125fc371f4013cb5945f6686ce60878f2026f82f3a68e284cc8596991b0",
+      "totalCount": 28,
+      "revision": 1,
+      "createdAt": "2026-09-10T10:19:48.068678Z",
+      "updatedAt": "2026-09-10T10:19:48.068678Z",
+      "titleZh": "览尽山河（一）",
+      "zipKey": "collections/packs/grand-landscapes-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/grand-landscapes-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/grand-landscapes-001.zip"
+      ]
+    }
+  ]
+}

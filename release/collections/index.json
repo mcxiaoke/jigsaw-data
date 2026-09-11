@@ -1,7 +1,7 @@
 {
   "module": "collections",
-  "version": 10,
-  "updatedAt": "2026-09-10T10:19:48.068678Z",
+  "version": 11,
+  "updatedAt": "2026-09-11T12:08:01.612916Z",
   "items": [
     {
       "id": "collection-chromatic-butterflies-001",
@@ -199,6 +199,28 @@
       "zipUrls": [
         "https://gitee.com/macitee/jigsaw-data/releases/download/assets/collection-grand-landscapes-001.zip",
         "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/collection-grand-landscapes-001.zip"
+      ]
+    },
+    {
+      "id": "collection-sea-lives-001",
+      "type": "zip",
+      "title": "Sea Lives A",
+      "desc": "",
+      "status": "active",
+      "displayOrder": 1,
+      "coverUrl": "covers/collection-sea-lives-001.webp",
+      "zipUrl": "packs/collection-sea-lives-001.zip",
+      "fileSizeBytes": 3669441,
+      "zipSha256": "2ad8fc80db0a57d6feb793ebd1f024b9299e1b76ae6d7447e7deb400d038da5b",
+      "totalCount": 16,
+      "revision": 1,
+      "createdAt": "2026-09-11T12:08:01.612916Z",
+      "updatedAt": "2026-09-11T12:08:01.612916Z",
+      "titleZh": "海洋生物（一）",
+      "zipKey": "collections/packs/collection-sea-lives-001.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/collection-sea-lives-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/collection-sea-lives-001.zip"
       ]
     }
   ]

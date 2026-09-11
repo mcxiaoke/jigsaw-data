@@ -9,21 +9,21 @@
       "hash": "4fbaa5087032944d225a34585393681f81561008e2ba3e9368fb7cf41cad539e"
     },
     "daily": {
-      "version": 2,
-      "hash": "8941c471b88dcbd23ccf40bf968022c762c901eb7056a2dc9ba4566168ac4d53"
+      "version": 5,
+      "hash": "5bed49d8e9db9d1983d5e96f572b5eb5516e0eb4e62c2f40551d9eb8fb98256a"
     },
     "events": {
       "version": 3,
       "hash": "c0cc8ef8704dfa66f5b9a0acabeae1aefb52fa691ec550d9d8adc9c227404e84"
     },
     "collections": {
-      "version": 10,
-      "hash": "b87d05c9fed198fc1f37f99756d577be0c38a4d978ba05920c1d308c94cb5125"
+      "version": 11,
+      "hash": "5b3863ff6720f740ab2a51a422fe39d25bc493e1d316e82c8a4608d3fd4b0587"
     }
   },
-  "sourceFingerprint": "a321a2ccd2514b9f7c5446e1005435504bd532b2fac549d724865662fae6ecfc",
-  "sourceFileCount": 213,
-  "publishedFileCount": 213,
+  "sourceFingerprint": "670e98e08dd2203653af4db0010639164534e3bcfffde9b0218e3e4481b5bb73",
+  "sourceFileCount": 218,
+  "publishedFileCount": 218,
   "publishedFiles": {
     "collections/covers/collection-birds-gallery-001.webp": {
       "size": 56074,
@@ -53,6 +53,10 @@
       "size": 106634,
       "sha256": "febab551867b65b2058d5d3bd199e42d0d1b4a628629184c78b109dd7fd1ace6"
     },
+    "collections/covers/collection-sea-lives-001.webp": {
+      "size": 141924,
+      "sha256": "d7c219024f5054e9dc6fd9e633edbbf6a51d46331d1198939c655bdcb85efd2e"
+    },
     "collections/covers/collection-world-architecture-001.webp": {
       "size": 101230,
       "sha256": "df3afab554ed75aa951550feffa74002abc66234de893e298d3c641dd77bfa83"
@@ -62,8 +66,8 @@
       "sha256": "325ed60aab9015f80d1531c127dc8a1bcf27f5c4c9c9802212430e56578d7847"
     },
     "collections/index.json": {
-      "size": 8828,
-      "sha256": "b87d05c9fed198fc1f37f99756d577be0c38a4d978ba05920c1d308c94cb5125"
+      "size": 9741,
+      "sha256": "5b3863ff6720f740ab2a51a422fe39d25bc493e1d316e82c8a4608d3fd4b0587"
     },
     "collections/packs/collection-birds-gallery-001.zip": {
       "size": 3147677,
@@ -93,6 +97,10 @@
       "size": 3857506,
       "sha256": "fd7ea484b0a212cfb4d16bfdc67f84d99525c3ad968c7c63198d029166f4930c"
     },
+    "collections/packs/collection-sea-lives-001.zip": {
+      "size": 3669441,
+      "sha256": "2ad8fc80db0a57d6feb793ebd1f024b9299e1b76ae6d7447e7deb400d038da5b"
+    },
     "collections/packs/collection-world-architecture-001.zip": {
       "size": 6120437,
       "sha256": "cd4380bc9363c82129db94257740e57078b3deec097d95e03978cdcf3698fd12"
@@ -102,8 +110,8 @@
       "sha256": "d40111b44b0144a65e38d009554372677f68bef9018d6fb421f2302db455f9ed"
     },
     "daily/index.json": {
-      "size": 1320,
-      "sha256": "8941c471b88dcbd23ccf40bf968022c762c901eb7056a2dc9ba4566168ac4d53"
+      "size": 3093,
+      "sha256": "5bed49d8e9db9d1983d5e96f572b5eb5516e0eb4e62c2f40551d9eb8fb98256a"
     },
     "daily/zips/202608.zip": {
       "size": 11945374,
@@ -112,6 +120,18 @@
     "daily/zips/202609.zip": {
       "size": 9061220,
       "sha256": "59d8edf4e5e3064a077854abcda4fe30d2639fa3adeabe078efda7a327a76519"
+    },
+    "daily/zips/202610.zip": {
+      "size": 8703885,
+      "sha256": "8e8d9ba0c3a550d00a0908757a16957b3ab3d5d5375bff649ed03cbff8e20def"
+    },
+    "daily/zips/202611.zip": {
+      "size": 7287847,
+      "sha256": "75f09eca14dbc9f1376ae80089420c0ff5b2959f8e21c9c5d304b8cfcc07fc97"
+    },
+    "daily/zips/202612.zip": {
+      "size": 7792703,
+      "sha256": "39a7e530a91128b6c7427251d9bf340a35314aefa3639e3039a10c028a24e6d5"
     },
     "events/covers/event-castles-landmarks-001.webp": {
       "size": 128822,
@@ -874,15 +894,25 @@
       "sha256": "4fbaa5087032944d225a34585393681f81561008e2ba3e9368fb7cf41cad539e"
     },
     "manifest.json": {
-      "size": 1139,
-      "sha256": "bc15501300e8400b200c847a887da0b5c8d5ff743a75503eedca35ca58c87a4f"
+      "size": 1140,
+      "sha256": "b0ba3924c3f44b316ba382b29f1a11f1d11ad939181b807de2172ab711db7eee"
     }
   },
-  "sourceChanged": false,
+  "sourceChanged": true,
   "changes": {
-    "added": [],
+    "added": [
+      "collections/covers/collection-sea-lives-001.webp",
+      "collections/packs/collection-sea-lives-001.zip",
+      "daily/zips/202610.zip",
+      "daily/zips/202611.zip",
+      "daily/zips/202612.zip"
+    ],
     "removed": [],
-    "changed": [],
+    "changed": [
+      "collections/index.json",
+      "daily/index.json",
+      "manifest.json"
+    ],
     "unchanged": [
       "collections/covers/collection-birds-gallery-001.webp",
       "collections/covers/collection-chromatic-butterflies-001.webp",
@@ -893,7 +923,6 @@
       "collections/covers/collection-objects-crafts-001.webp",
       "collections/covers/collection-world-architecture-001.webp",
       "collections/covers/collection-world-delicacies-001.webp",
-      "collections/index.json",
       "collections/packs/collection-birds-gallery-001.zip",
       "collections/packs/collection-chromatic-butterflies-001.zip",
       "collections/packs/collection-colorful-blooms-001.zip",
@@ -903,7 +932,6 @@
       "collections/packs/collection-objects-crafts-001.zip",
       "collections/packs/collection-world-architecture-001.zip",
       "collections/packs/collection-world-delicacies-001.zip",
-      "daily/index.json",
       "daily/zips/202608.zip",
       "daily/zips/202609.zip",
       "events/covers/event-castles-landmarks-001.webp",
@@ -1095,28 +1123,35 @@
       "main/batches/batch_002/images/179.webp",
       "main/batches/batch_002/images/180.webp",
       "main/batches/batch_002/index.json",
-      "main/index.json",
-      "manifest.json"
+      "main/index.json"
     ],
     "counts": {
-      "added": 0,
+      "added": 5,
       "removed": 0,
-      "changed": 0,
-      "unchanged": 213
+      "changed": 3,
+      "unchanged": 210
     }
   },
-  "previousRunId": "20260911-115642",
+  "previousRunId": "20260911-120040",
   "prepare": {
     "rc": 0,
-    "files": 213
+    "files": 218
   },
-  "runId": "20260911-120040",
-  "startedAt": "2026-09-11T12:00:40",
+  "runId": "20260911-201435",
+  "state": "PROMOTED",
+  "startedAt": "2026-09-11T20:14:35",
+  "updatedAt": "2026-09-11T20:20:09",
   "steps": {
+    "test": {
+      "rc": 0
+    },
     "stage": {
       "rc": 0,
-      "files": 213,
+      "files": 218,
       "target": "r2:jigsaw-data/_stage"
+    },
+    "verify_stage": {
+      "rc": 0
     },
     "release": {
       "rc": 0,
@@ -1130,10 +1165,14 @@
         "collection-grand-landscapes-001.zip",
         "collection-mushrooms-in-forests-001.zip",
         "collection-objects-crafts-001.zip",
+        "collection-sea-lives-001.zip",
         "collection-world-architecture-001.zip",
         "collection-world-delicacies-001.zip",
         "202608.zip",
         "202609.zip",
+        "202610.zip",
+        "202611.zip",
+        "202612.zip",
         "event-castles-landmarks-001.zip",
         "event-chromatic-weave-001.zip",
         "event-epic-landscapes-001.zip"
@@ -1144,5 +1183,5 @@
       "verifyRc": 0
     }
   },
-  "updatedAt": "2026-09-11T12:12:21"
+  "finishedAt": "2026-09-11T20:20:09"
 }

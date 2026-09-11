@@ -1,9 +1,54 @@
 {
   "module": "daily",
-  "version": 2,
-  "currentMonth": "202609",
-  "updatedAt": "2026-09-10T08:32:51.848391Z",
+  "version": 5,
+  "currentMonth": "202612",
+  "updatedAt": "2026-09-11T12:05:03.243271Z",
   "items": [
+    {
+      "month": "202612",
+      "totalCount": 31,
+      "zipUrl": "zips/202612.zip",
+      "fileSizeBytes": 7792703,
+      "zipSha256": "39a7e530a91128b6c7427251d9bf340a35314aefa3639e3039a10c028a24e6d5",
+      "revision": 1,
+      "createdAt": "2026-09-11T12:05:03.243271Z",
+      "updatedAt": "2026-09-11T12:05:03.243271Z",
+      "zipKey": "daily/zips/202612.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/202612.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/202612.zip"
+      ]
+    },
+    {
+      "month": "202611",
+      "totalCount": 30,
+      "zipUrl": "zips/202611.zip",
+      "fileSizeBytes": 7287847,
+      "zipSha256": "75f09eca14dbc9f1376ae80089420c0ff5b2959f8e21c9c5d304b8cfcc07fc97",
+      "revision": 1,
+      "createdAt": "2026-09-11T12:01:50.781960Z",
+      "updatedAt": "2026-09-11T12:01:50.781960Z",
+      "zipKey": "daily/zips/202611.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/202611.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/202611.zip"
+      ]
+    },
+    {
+      "month": "202610",
+      "totalCount": 31,
+      "zipUrl": "zips/202610.zip",
+      "fileSizeBytes": 8703885,
+      "zipSha256": "8e8d9ba0c3a550d00a0908757a16957b3ab3d5d5375bff649ed03cbff8e20def",
+      "revision": 1,
+      "createdAt": "2026-09-11T11:59:17.969269Z",
+      "updatedAt": "2026-09-11T11:59:17.969269Z",
+      "zipKey": "daily/zips/202610.zip",
+      "zipUrls": [
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/202610.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/202610.zip"
+      ]
+    },
     {
       "month": "202609",
       "totalCount": 30,

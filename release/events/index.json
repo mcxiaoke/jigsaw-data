@@ -4,14 +4,14 @@
   "updatedAt": "2026-09-10T08:47:56.089212Z",
   "items": [
     {
-      "id": "epic-landscapes-001",
+      "id": "event-epic-landscapes-001",
       "type": "zip",
       "title": "Epic Landscapes A",
       "desc": "",
       "status": "active",
       "displayOrder": 1,
-      "coverUrl": "covers/epic-landscapes-001.webp",
-      "zipUrl": "packs/epic-landscapes-001.zip",
+      "coverUrl": "covers/event-epic-landscapes-001.webp",
+      "zipUrl": "packs/event-epic-landscapes-001.zip",
       "fileSizeBytes": 6150642,
       "zipSha256": "ecf8cbc4524eb042f5dd1f039a905e290efdc9dfc7b4c4f8a9468db14a62ce59",
       "totalCount": 12,
@@ -19,21 +19,21 @@
       "createdAt": "2026-09-10T08:39:03.337083Z",
       "updatedAt": "2026-09-10T08:39:03.337083Z",
       "titleZh": "壮丽山河（一）",
-      "zipKey": "events/packs/epic-landscapes-001.zip",
+      "zipKey": "events/packs/event-epic-landscapes-001.zip",
       "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/epic-landscapes-001.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/epic-landscapes-001.zip"
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/event-epic-landscapes-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/event-epic-landscapes-001.zip"
       ]
     },
     {
-      "id": "chromatic-weave-001",
+      "id": "event-chromatic-weave-001",
       "type": "zip",
       "title": "Chromatic Weave A",
       "desc": "",
       "status": "active",
       "displayOrder": 1,
-      "coverUrl": "covers/chromatic-weave-001.webp",
-      "zipUrl": "packs/chromatic-weave-001.zip",
+      "coverUrl": "covers/event-chromatic-weave-001.webp",
+      "zipUrl": "packs/event-chromatic-weave-001.zip",
       "fileSizeBytes": 4007233,
       "zipSha256": "a7c266a100c7083a83b6fc8425393347e35b28ab29c1bf5a9d4945721ea96ca2",
       "totalCount": 16,
@@ -41,21 +41,21 @@
       "createdAt": "2026-09-10T08:43:17.433229Z",
       "updatedAt": "2026-09-10T08:43:17.433229Z",
       "titleZh": "幻彩织章（一）",
-      "zipKey": "events/packs/chromatic-weave-001.zip",
+      "zipKey": "events/packs/event-chromatic-weave-001.zip",
       "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/chromatic-weave-001.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/chromatic-weave-001.zip"
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/event-chromatic-weave-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/event-chromatic-weave-001.zip"
       ]
     },
     {
-      "id": "castles-landmarks-001",
+      "id": "event-castles-landmarks-001",
       "type": "zip",
       "title": "Castles & Landmarks A",
       "desc": "",
       "status": "active",
       "displayOrder": 1,
-      "coverUrl": "covers/castles-landmarks-001.webp",
-      "zipUrl": "packs/castles-landmarks-001.zip",
+      "coverUrl": "covers/event-castles-landmarks-001.webp",
+      "zipUrl": "packs/event-castles-landmarks-001.zip",
       "fileSizeBytes": 4749268,
       "zipSha256": "980d4d3e5b5ef548bbed1a7c465aab23e06bd4199023ef1188c0b70df8c2c698",
       "totalCount": 16,
@@ -63,10 +63,10 @@
       "createdAt": "2026-09-10T08:47:56.089212Z",
       "updatedAt": "2026-09-10T08:47:56.089212Z",
       "titleZh": "古堡与地标（一）",
-      "zipKey": "events/packs/castles-landmarks-001.zip",
+      "zipKey": "events/packs/event-castles-landmarks-001.zip",
       "zipUrls": [
-        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/castles-landmarks-001.zip",
-        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/castles-landmarks-001.zip"
+        "https://gitee.com/macitee/jigsaw-data/releases/download/assets/event-castles-landmarks-001.zip",
+        "https://github.com/mcxiaoke/jigsaw-data/releases/download/assets/event-castles-landmarks-001.zip"
       ]
     }
   ]

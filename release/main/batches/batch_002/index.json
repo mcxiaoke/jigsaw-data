@@ -15,7 +15,8 @@
         "Landscapes"
       ],
       "hash": "8abb8eb933e6f54a4f11d3d0408ca4d37c33419812e3f072b8e78b88bd088452",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 292960
     },
     {
       "id": "main:102",
@@ -25,7 +26,8 @@
         "Animals"
       ],
       "hash": "9f46a54b12b15f9ece1b5405ca146c9e9ce2b9d8547f0eb84b7a5d8ffec25dba",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 185638
     },
     {
       "id": "main:103",
@@ -35,7 +37,8 @@
         "Cities"
       ],
       "hash": "11e03ba6f6ade9a7cafd05ae9fd716544668f7b1e671582784e0260668e24f33",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 458866
     },
     {
       "id": "main:104",
@@ -45,7 +48,8 @@
         "Food"
       ],
       "hash": "24346f0250a6ea651fd2a6573229cfe2e68fd2c29b0412c714037d9f2afc3165",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 143132
     },
     {
       "id": "main:105",
@@ -55,7 +59,8 @@
         "Others"
       ],
       "hash": "6c00fb6b2fea4a2bdd2986503e40a48dc586c22cdc7e474db6fe276da9f2b576",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 222332
     },
     {
       "id": "main:106",
@@ -65,7 +70,8 @@
         "Nature"
       ],
       "hash": "cc8afa7cc92d6f9a2c5d7e0e655565dcb0e8268c20ab0d43826618d004be3cba",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 245710
     },
     {
       "id": "main:107",
@@ -75,7 +81,8 @@
         "Flowers"
       ],
       "hash": "7785b20ea34188ab4a2a20873aa86d53b49860133bdce431427300ba9e9f632e",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 98922
     },
     {
       "id": "main:108",
@@ -85,7 +92,8 @@
         "Objects"
       ],
       "hash": "2e1daf0a0ee395987df033077bf1096e00df1125d47354240621576f6f6c59af",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 574088
     },
     {
       "id": "main:109",
@@ -95,7 +103,8 @@
         "Colors"
       ],
       "hash": "5a7930f5565b18254e476732dcdad4b023247d30b224b002a29b79006e9d7c1a",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 189754
     },
     {
       "id": "main:110",
@@ -105,7 +114,8 @@
         "Animals"
       ],
       "hash": "68c4944c4851aaa33982548dd05920ad3a817f85e9f90a5aa544b6caeb441c70",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 314522
     },
     {
       "id": "main:111",
@@ -115,7 +125,8 @@
         "Pets"
       ],
       "hash": "746b28e5d39fa835f94addf8f52048517e0845355bee9784b26ef80343411dbe",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 173122
     },
     {
       "id": "main:112",
@@ -125,7 +136,8 @@
         "Holidays"
       ],
       "hash": "ebb7161db04a0a1840c01d1306d19c16f46e27d7aae0a9defbe5af3ea1d4049f",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 466486
     },
     {
       "id": "main:113",
@@ -135,7 +147,8 @@
         "Landscapes"
       ],
       "hash": "03c6ea06432f980d1234446e1e021efd20edfd15b9208fdf7e02b268729f84aa",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 351784
     },
     {
       "id": "main:114",
@@ -145,7 +158,8 @@
         "Structures"
       ],
       "hash": "49faac6ff6561a50cdf1a2c1b623065b29ed2be8aaa1d5f1288f1758b87c799b",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 281822
     },
     {
       "id": "main:115",
@@ -155,7 +169,8 @@
         "Vehicles"
       ],
       "hash": "41c41516a6502198128043bc716af71915762b1d5cb9e977fdd5be06786ee5e4",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 138228
     },
     {
       "id": "main:116",
@@ -165,7 +180,8 @@
         "Animals"
       ],
       "hash": "c7fbbf023137ef5ad3cb7275478372377481f42a28ffb9b90b3e8654b4c02779",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 367166
     },
     {
       "id": "main:117",
@@ -175,7 +191,8 @@
         "Cities"
       ],
       "hash": "8fd587e67f190d395aaad67ea68b0019a0e1ef6f3ea6b4b4017128210e3c62a7",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 459026
     },
     {
       "id": "main:118",
@@ -185,7 +202,8 @@
         "Food"
       ],
       "hash": "a32b4f795f9eecd0f1f559aabe9a2e42c098eb4e5204428003ad5269d5b54aeb",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 181092
     },
     {
       "id": "main:119",
@@ -195,7 +213,8 @@
         "Others"
       ],
       "hash": "e96dea431c6c42b568ad2ff3bfe65adbd93591ce4f32068384f8d328145ccea7",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 226406
     },
     {
       "id": "main:120",
@@ -205,7 +224,8 @@
         "Landscapes"
       ],
       "hash": "ec68505c6513101a5aedfb0f0e0c62a7d64587aa26a51d555d8bc59c5a309606",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 392498
     },
     {
       "id": "main:121",
@@ -215,7 +235,8 @@
         "Nature"
       ],
       "hash": "db11ed047651d52758bd9777a80cbfbb8dff01f4ed0fedf048cd2fa8ef74162b",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 159968
     },
     {
       "id": "main:122",
@@ -225,7 +246,8 @@
         "Flowers"
       ],
       "hash": "facf369667d9eddd5f92ce1264e22a1b1e3c313c5f982fd351ca807302b8d912",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 128380
     },
     {
       "id": "main:123",
@@ -235,7 +257,8 @@
         "Objects"
       ],
       "hash": "5206d1d9a9b0de000bb50e30535fe6728067e8056cceac708528db9580efe5a6",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 214172
     },
     {
       "id": "main:124",
@@ -245,7 +268,8 @@
         "Animals"
       ],
       "hash": "3df5bce4848e1d5811accb4e1f2aba873c2614b6666b2ed95c0ce98bba69dbf7",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 198018
     },
     {
       "id": "main:125",
@@ -255,7 +279,8 @@
         "Colors"
       ],
       "hash": "3885ac0cd825593d8fe530dddf1c713581bb2efdf05faa7b9ae69f57eb4efec1",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 588536
     },
     {
       "id": "main:126",
@@ -265,7 +290,8 @@
         "Pets"
       ],
       "hash": "184db9f66f92facb21586ca0b8b83e96fabebb28f775329e0874f1de10fc3f12",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 156510
     },
     {
       "id": "main:127",
@@ -275,7 +301,8 @@
         "Landscapes"
       ],
       "hash": "5461a85271ffc44ceeeb35addc92568b5c17650a9af2e74e18e5fe1a87651299",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 626930
     },
     {
       "id": "main:128",
@@ -285,7 +312,8 @@
         "Cities"
       ],
       "hash": "e758b27cd0a9ec551bdbe2a158bb02616a4748443b2822524275d8dfa446a0e5",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 579804
     },
     {
       "id": "main:129",
@@ -296,7 +324,8 @@
         "Colors"
       ],
       "hash": "9448c6d38cfe70ea2099735993a0c04de61351c11370d028ce1ba203ce4caf5a",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 136156
     },
     {
       "id": "main:130",
@@ -306,7 +335,8 @@
         "Others"
       ],
       "hash": "bcfca5f1485f521ac3ab37c0540418fac285f31294125c4529331a27d3ff10ac",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 301334
     },
     {
       "id": "main:131",
@@ -316,7 +346,8 @@
         "Animals"
       ],
       "hash": "6b8429f8d4b6b4b0b1f3b293ce4edd2143410aa0133ad635de3903cac349d7d1",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 121262
     },
     {
       "id": "main:132",
@@ -326,7 +357,8 @@
         "Holidays"
       ],
       "hash": "6488238f6e60332a777f79625840142ce93f4a05f41a117524866afcb3e72d81",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 221050
     },
     {
       "id": "main:133",
@@ -336,7 +368,8 @@
         "Nature"
       ],
       "hash": "48cf8baac6ff59dcc62ba4df488afc4d3339f11470db73354c2bae76e138c934",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 787098
     },
     {
       "id": "main:134",
@@ -346,7 +379,8 @@
         "Flowers"
       ],
       "hash": "0913fde6cd495fc7a76efb67ad3f31ffe8eb25b97b1e9ec470e4c282f8e46a16",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 88622
     },
     {
       "id": "main:135",
@@ -356,7 +390,8 @@
         "Objects"
       ],
       "hash": "9e7daabfa4960bf90720e1c0e51829b587be057e32adba7f3849c03708076ff7",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 169450
     },
     {
       "id": "main:136",
@@ -366,7 +401,8 @@
         "Landscapes"
       ],
       "hash": "d35d8829b4b764e7346c441a37ac90866b99eb8b8ea9b99b929a369adcf4f45d",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 388110
     },
     {
       "id": "main:137",
@@ -376,7 +412,8 @@
         "Animals"
       ],
       "hash": "844c7516ff710a5cfcc495944e2ad1f622ac639d77aab54c2f4f2a07fe678097",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 106530
     },
     {
       "id": "main:138",
@@ -386,7 +423,8 @@
         "Structures"
       ],
       "hash": "27226fb6f455f45a11feb24d2c75c7f7fa8d260d0fe2a0118740afbd3e270012",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 438400
     },
     {
       "id": "main:139",
@@ -396,7 +434,8 @@
         "Vehicles"
       ],
       "hash": "b5c5ebcee750f1efcc02c1515edac9f4d8a96ccfb113a67cda680796d8402a8a",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 370996
     },
     {
       "id": "main:140",
@@ -406,7 +445,8 @@
         "Cities"
       ],
       "hash": "69fd183b83418ba1b7ff77e238cb670344b69204fd13aaff0a4b4c8932ebac4a",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 338962
     },
     {
       "id": "main:141",
@@ -416,7 +456,8 @@
         "Food"
       ],
       "hash": "d362267b8d6937628e8c90f47858a521bf30b1ccf68ecfec802527c32dafda90",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 74388
     },
     {
       "id": "main:142",
@@ -426,7 +467,8 @@
         "Others"
       ],
       "hash": "ece0121656a51c5f1049b022a6cc08e2fc43b15e4106f7a8d88331d52ae17da6",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 396400
     },
     {
       "id": "main:143",
@@ -436,7 +478,8 @@
         "Colors"
       ],
       "hash": "95bd4f65b2975f505cfd5a3b8682fea01f659d780f9223132a66023ce92bb9ca",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 266424
     },
     {
       "id": "main:144",
@@ -446,7 +489,8 @@
         "Animals"
       ],
       "hash": "2dfbdc98e3e872c4d1bbe28da531355de7d1447e8461728ef2a2926251105501",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 466322
     },
     {
       "id": "main:145",
@@ -456,7 +500,8 @@
         "Landscapes"
       ],
       "hash": "6bfa0ce5565288f749901f05ecfe37d223e9ac8e52214111bb9f7538c1b4c0c0",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 251496
     },
     {
       "id": "main:146",
@@ -466,7 +511,8 @@
         "Nature"
       ],
       "hash": "b98621610dc0919e38d9e8bc8ce04df908bd2d6b7623fe6466425485bf0e12e9",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 200606
     },
     {
       "id": "main:147",
@@ -476,7 +522,8 @@
         "Flowers"
       ],
       "hash": "f836f4320e9827034e4d7f524fa35d43371391eaff3a1d2b014fbd0f8db4b7ae",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 106790
     },
     {
       "id": "main:148",
@@ -486,7 +533,8 @@
         "Objects"
       ],
       "hash": "8799168d900f805b203a6d1f8424774059712e7881f6a9d84d7f54bee2e1f19c",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 157916
     },
     {
       "id": "main:149",
@@ -496,7 +544,8 @@
         "Pets"
       ],
       "hash": "bda1aadb505021ecf254675c535082fd75a2c3daea345c3af470646f3f428e16",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 170836
     },
     {
       "id": "main:150",
@@ -506,7 +555,8 @@
         "Animals"
       ],
       "hash": "4b33fcfc59616277adae430ac91c5f6165aeebf3aefdd1c02c0d4fd9d2ca9bd4",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 262416
     },
     {
       "id": "main:151",
@@ -516,7 +566,8 @@
         "Holidays"
       ],
       "hash": "0e1d41bb993a5e3c31bd8566fcfb052dc29e491e7f60c9dbf97aa5c65847a3d5",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 480342
     },
     {
       "id": "main:152",
@@ -526,7 +577,8 @@
         "Cities"
       ],
       "hash": "eac4e9cce8d76205aa543149f35dc712b93c1ef4aaea3209adfc72fcc7143071",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 303746
     },
     {
       "id": "main:153",
@@ -536,7 +588,8 @@
         "Food"
       ],
       "hash": "a85ea38bdd5bf3faf79de06d52d52300e6c23963ad0ad688e049e8e3e9673db0",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 185412
     },
     {
       "id": "main:154",
@@ -546,7 +599,8 @@
         "Landscapes"
       ],
       "hash": "200c83dd5573869ff66c55dcbed4abdf4dea0cd2af0bcb27b215dde558c9063f",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 425980
     },
     {
       "id": "main:155",
@@ -556,7 +610,8 @@
         "Others"
       ],
       "hash": "4582ed756798dcbfa9abdf7fb95e51b2f50316fc4df65f6478de010941dca140",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 362844
     },
     {
       "id": "main:156",
@@ -566,7 +621,8 @@
         "Colors"
       ],
       "hash": "5caa18cb83bf36458a580d604099c217df33805bfefb656d1fc6d28721316e85",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 405582
     },
     {
       "id": "main:157",
@@ -576,7 +632,8 @@
         "Animals"
       ],
       "hash": "ab773e7aa66bdcacb21330f5561e6b521c8a90db7fc41050902ec19ce87f803c",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 85500
     },
     {
       "id": "main:158",
@@ -586,7 +643,8 @@
         "Nature"
       ],
       "hash": "1f29c8cd313097d64851c7bda6a611d55744b243333a3cac4b7315e8af4d899b",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 230846
     },
     {
       "id": "main:159",
@@ -596,7 +654,8 @@
         "Flowers"
       ],
       "hash": "f25f0f6dbf56c2b20109582a815637225e4d028e50e86d45d6e39f5410607b4f",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 123776
     },
     {
       "id": "main:160",
@@ -606,7 +665,8 @@
         "Landscapes"
       ],
       "hash": "0fedd761674bb2583650a133853c4d0f597e2b6192ff119331d34d3c3d669952",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 274270
     },
     {
       "id": "main:161",
@@ -616,7 +676,8 @@
         "Objects"
       ],
       "hash": "cac628930808698deae2259d2ed5145ad364e06ee5b9485fcfa0e67cbd0e9ab9",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 169524
     },
     {
       "id": "main:162",
@@ -626,7 +687,8 @@
         "Cities"
       ],
       "hash": "01fcaee9df772b1bd1e3faf6676fe5542c192e5ae99514481725f80932a8b274",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 483142
     },
     {
       "id": "main:163",
@@ -636,7 +698,8 @@
         "Food"
       ],
       "hash": "f7b2e4131dfbfebc69dd55e010332ec55ec978b785dc8f1f6a7a994436431f79",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 104120
     },
     {
       "id": "main:164",
@@ -646,7 +709,8 @@
         "Animals"
       ],
       "hash": "07cf7ea3120ba42a6ee0f7f6d4b8bf5a52ae6d7e74b19e33b5d221cf1004a9e7",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 205952
     },
     {
       "id": "main:165",
@@ -656,7 +720,8 @@
         "Others"
       ],
       "hash": "bb7da725e1115b569f0c8d21b326c4b2c1650b0cb7ec444aa48277d2e6509d37",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 197674
     },
     {
       "id": "main:166",
@@ -666,7 +731,8 @@
         "Structures"
       ],
       "hash": "212d0bf211c4099b3c6c124905264332efc95bdec4bb78912d0121276113405a",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 92720
     },
     {
       "id": "main:167",
@@ -676,7 +742,8 @@
         "Vehicles"
       ],
       "hash": "0255d245899dd608d67163c8a002b17441263cbb5be2010dbd31971f6ce0e1d5",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 306314
     },
     {
       "id": "main:168",
@@ -686,7 +753,8 @@
         "Landscapes"
       ],
       "hash": "bbe1ca4ee5ca29c5c69399fa93011b93069cf41c83e1439cbc984c4c69518d26",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 403032
     },
     {
       "id": "main:169",
@@ -696,7 +764,8 @@
         "Pets"
       ],
       "hash": "ec803bac67fbe65be0e8ea9767ae1dfdee424206f9222e19d3aaa55091872646",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 110978
     },
     {
       "id": "main:170",
@@ -706,7 +775,8 @@
         "Animals"
       ],
       "hash": "9917312882ebe2eaa3ae7f926e15d7cac205c50a5a6ec1a72a07de241ab884e8",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 212500
     },
     {
       "id": "main:171",
@@ -716,7 +786,8 @@
         "Holidays"
       ],
       "hash": "eb513dde1b8e0bcec04edb8ed33d1a1a0b2de115ef9ccb081df8edd54cd4deff",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 296810
     },
     {
       "id": "main:172",
@@ -726,7 +797,8 @@
         "Colors"
       ],
       "hash": "4292277be1e465bfbcd15c1f2e14151cf6d9ae21d0d5a133a8ce1957a4d36f7f",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 123860
     },
     {
       "id": "main:173",
@@ -736,7 +808,8 @@
         "Nature"
       ],
       "hash": "a47947ed468467d74cab0430c9f5a3ae355e276c95a01ce6cd2d2e860073d698",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 127252
     },
     {
       "id": "main:174",
@@ -746,7 +819,8 @@
         "Flowers"
       ],
       "hash": "001ab16355ab82ff92b90f97ac509d6a5e0b876652cc3c0cc3403f811eed9070",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 169382
     },
     {
       "id": "main:175",
@@ -756,7 +830,8 @@
         "Objects"
       ],
       "hash": "adfb84fadc513895122d5a81eb6dff438efc96d2b824d60a14f78f9ed447f392",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 253528
     },
     {
       "id": "main:176",
@@ -766,7 +841,8 @@
         "Cities"
       ],
       "hash": "4b197a65442059f65af84c9efddf715648ade170360fa358c474d1e8c0643833",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 196098
     },
     {
       "id": "main:177",
@@ -776,7 +852,8 @@
         "Food"
       ],
       "hash": "84c0d93d63a5c0f28c137edd7932e34939d4bcd9c9ba6b8ff9953db1bab88f65",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 108860
     },
     {
       "id": "main:178",
@@ -786,7 +863,8 @@
         "Others"
       ],
       "hash": "5193fc65430c4e941172215b1831ba983193653c59b2813624bd15c9f823430f",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 246882
     },
     {
       "id": "main:179",
@@ -796,7 +874,8 @@
         "Landscapes"
       ],
       "hash": "1ccdb8e523a8fc7160c1c79eeb75280a8e23a7920f650a393b54e089d31c58bf",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 641786
     },
     {
       "id": "main:180",
@@ -806,7 +885,8 @@
         "Animals"
       ],
       "hash": "c5b4a9377a024ede10851c2d9f3d7d33df8fda6b11597855c3da2dfdba11459e",
-      "addedAt": "2026-09-10T10:33:53.564719Z"
+      "addedAt": "2026-09-10T10:33:53.564719Z",
+      "fileSizeBytes": 167812
     }
   ]
 }
